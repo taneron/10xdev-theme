@@ -1,0 +1,21 @@
+{
+  "name": "10xdev-theme",
+  "displayName": "10xDev Theme",
+  "description": "For aspiring Developers who like cyberpunk colors but also don't want it to be distracting.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "10xDev Cyber Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/10xDev Cyber Edition-color-theme.json"
+      }
+    ]
+  }
+}
