@@ -1,8 +1,8 @@
 {
   "name": "10xdev-theme",
   "displayName": "10xDev Theme",
-  "description": "For aspiring Developers who like cyberpunk colors but also don't want it to be distracting.",
-  "version": "0.0.1",
+  "description": "For aspiring Developers who like cyberpunk colors but also don't want them to be distracting.",
+  "version": "1.0.0",
   "license": "MIT",
   "icon": "icon.png",
   "publisher": "taneron",
